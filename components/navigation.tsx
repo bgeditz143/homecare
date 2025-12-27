@@ -11,12 +11,9 @@ export function Navigation() {
   return (
     <nav className="bg-card border-b border-border sticky top-0 z-50 backdrop-blur-sm bg-card/95">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
+        <div className="flex justify-between items-center h-[100px]">
           <Link href="/" className="flex items-center gap-2">
-            <div className="bg-primary rounded-lg p-2">
-              <Heart className="h-5 w-5 text-primary-foreground" />
-            </div>
-            <span className="text-xl font-semibold text-foreground">SevaSadan</span>
+            <img src="/logo.png" alt="logo" />
           </Link>
 
           {/* Desktop Navigation */}

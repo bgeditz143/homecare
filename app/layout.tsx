@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "SevaSadan Services - Professional Home Care & Hospitality Solutions",
   description:
     "Trusted home care services including elderly care, nursing, and hospitality solutions. 24/7 support with trained professionals.",
-  generator: "v0.app",
+  generator: "",
   icons: {
     icon: [
       {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/fav.png",
         type: "image/svg+xml",
       },
     ],
