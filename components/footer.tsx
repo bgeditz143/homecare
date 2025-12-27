@@ -9,10 +9,7 @@ export function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <div className="bg-primary rounded-lg p-2">
-                <Heart className="h-5 w-5 text-primary-foreground" />
-              </div>
-              <span className="text-xl font-semibold text-foreground">SevaSadan</span>
+              <img src="/logo.png" alt="logo" />
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Providing professional home care and hospitality services with trained staff and 24/7 support.
