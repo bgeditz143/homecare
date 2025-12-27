@@ -15,7 +15,7 @@ export function Footer() {
               <span className="text-xl font-semibold text-foreground">SevaSadan</span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-               professional home care and hospitality services with trained staff and 24/7 support.
+              Providing professional home care and hospitality services with trained staff and 24/7 support.
             </p>
           </div>
 
